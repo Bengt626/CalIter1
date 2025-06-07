@@ -15,4 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![Flutter counter app on IOS simulator](ios_BP_app_scr.png)
+![Flutter counter app on IOS simulator](flutter_01.png)
